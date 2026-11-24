@@ -4,4 +4,4 @@
 
 ## Licensing and Attribution
 
-This repository is licensed under the [MIT License].
+This repository is licensed under the [MIT License](http://opensource.org/licenses/MIT).
