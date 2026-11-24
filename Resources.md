@@ -6,7 +6,7 @@ nav_order: 2
 
 # Resources
 
-<Add links>
+Add links to helpful resources here.
 
 # Acknowledgements
 
