@@ -12,6 +12,6 @@ Please take a moment to explore [native-land.ca](https://native-land.ca/) and le
 
 Add links to helpful resources here.
 
-# Acknowledgements
+### Website template
 
 This website was adapted from the [just-the-docs](https://github.com/pmarsceill/just-the-docs) Jekyll template available under the [MIT License](http://opensource.org/licenses/MIT).
