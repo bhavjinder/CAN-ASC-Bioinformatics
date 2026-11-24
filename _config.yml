@@ -3,3 +3,4 @@ description: Canadian Autoimmunity Standardization Core (CAN-ASC) Bioinformatics
 theme: just-the-docs
 
 url: https://bhavjinder.github.io/CAN-ASC-RNA-Seq
+baseurl: https://bhavjinder.github.io
