@@ -6,7 +6,7 @@ nav_order: 1
 
 Welcome!
 
-# Learning Objectives:
+## Learning Objectives:
 By the end of this workshop, you will use RStudio for:  
 
 - Creating and managing projects. 
