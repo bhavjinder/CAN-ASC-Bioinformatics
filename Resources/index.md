@@ -1,3 +1,8 @@
+---
+title: Resources
+nav_order: 2
+---
+
 # Resources
 
 <Add links>
