@@ -2,5 +2,5 @@ title: CAN-ASC-RNA-Seq Bioinformatics Workshop
 description: Canadian Autoimmunity Standardization Core (CAN-ASC) Bioinformatics Workshop
 theme: just-the-docs
 
-url: https://bhavjinder.github.io/CAN-ASC-RNA-Seq
-baseurl: https://bhavjinder.github.io
+url: "https://bhavjinder.github.io"
+baseurl: "/CAN-ASC-RNA-Seq"
